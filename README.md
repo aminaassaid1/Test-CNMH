@@ -11,6 +11,8 @@
   - Validation des scénarios dans l'application
 ## Référence
 [comment faire le diagramme de sequence UML](https://www.youtube.com/watch?v=pCK6prSq8aw)
+
+
 [Cours - Modélisation Orienté objet et UML]([https://www.youtube.com/watch?v=pCK6prSq8aw](https://www.youtube.com/playlist?list=PLmi5sRiGSFfABDzWbYeI31886urszkeR9))
 
 ## Solution

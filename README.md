@@ -9,11 +9,6 @@
   - Rédaction de scénarios en français
   - Rédaction de scénarios en UML
   - Validation des scénarios dans l'application
-## Référence
-
-- [Comment faire le diagramme de séquence UML](https://www.youtube.com/watch?v=pCK6prSq8aw)
-
-- [Cours - Modélisation Orientée objet et UML](https://www.youtube.com/playlist?list=PLmi5sRiGSFfABDzWbYeI31886urszkeR9)
 
 
 ## Solution

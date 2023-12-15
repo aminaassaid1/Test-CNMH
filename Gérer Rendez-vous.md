@@ -26,7 +26,7 @@ Tester le sénario Gérer les rendez-vous
 - Application CNMH
 <img src="Images/interface%20rendez-vous.png">
 <img src="Images/liste%20d'attente.png">
-<img src="Images/Ajouter%20rendez-vous.pngg">
+<img src="Images/Ajouter%20rendez-vous.png">
 
 
 ## Livrable

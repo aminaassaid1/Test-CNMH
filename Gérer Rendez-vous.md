@@ -16,5 +16,18 @@ Tester le sénario Gérer les rendez-vous
 ## Entrée
 
 
+
+
+
+- Diagramme de cas d'utilisation - sprint1
+  
+<img src="images/cas-utilisation.png">
+
+- Application CNMH
+<img src="Images/interface%20rendez-vous.png">
+<img src="Images/liste%20d'attente.png">
+<img src="Images/Ajouter%20rendez-vous.pngg">
+
+
 ## Livrable
 [Scénario gestion de rendez-vous ](https://docs.google.com/presentation/d/1d9Bl9QKTl4_vsFA0oWER7LfaX9nveLHx/edit?usp=sharing&ouid=104079302148884844878&rtpof=true&sd=true)

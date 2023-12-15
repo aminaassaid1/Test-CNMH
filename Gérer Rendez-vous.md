@@ -21,7 +21,7 @@ Tester le sénario Gérer les rendez-vous
 
 - Diagramme de cas d'utilisation - sprint1
   
-<img src="images/cas-utilisation.png">
+<img src="Images/cas-utilisation.png">
 
 - Application CNMH
 <img src="Images/interface%20rendez-vous.png">

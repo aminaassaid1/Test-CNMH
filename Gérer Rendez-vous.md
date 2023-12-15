@@ -2,7 +2,7 @@
 
 ## Travail à faire
 
-Tester le cas d'utilisation Gérer les rendez-vous
+Tester le sénario Gérer les rendez-vous
 
 ## Critères de validation
 - Scénarios
@@ -14,9 +14,7 @@ Tester le cas d'utilisation Gérer les rendez-vous
   - Langue
 
 ## Entrée
-- Diagramme de cas d'utilisation - sprint1
-- L'empathie
-- Application CNMH 
+
 
 ## Livrable
 [Scénario gestion de rendez-vous ](https://docs.google.com/presentation/d/1d9Bl9QKTl4_vsFA0oWER7LfaX9nveLHx/edit?usp=sharing&ouid=104079302148884844878&rtpof=true&sd=true)
